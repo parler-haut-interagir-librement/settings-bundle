@@ -38,13 +38,13 @@
         "symfony/security-core": "^8.2",
         "symfony/service-contracts": "^3.8",
         "symfony/translation-contracts": "^3.8",
-        "twig/twig": "^3.31"
+        "twig/twig": "^3.31.1"
     },
     "require-dev": {
         "ext-pdo": "*",
         "doctrine/doctrine-bundle": "^3.4",
         "doctrine/orm": "^3.8",
-        "phil/notifications-bundle": "^0.3@dev",
+        "phil/notifications-bundle": "^0.4@dev",
         "phil/privacy-bundle": "^0.3@dev",
         "phpunit/phpunit": "^13.4",
         "psr/log": "^3.0",
